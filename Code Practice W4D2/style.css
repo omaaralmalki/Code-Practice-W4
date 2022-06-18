@@ -1,0 +1,154 @@
+* {
+    margin: auto;
+    padding: 0px;
+  }
+#main{
+    margin-left:10%;
+    margin-right: 10%;
+    background-image: url('photo-1655475020278-573fd0a8c140.avif');
+    background-position: center;
+    background-size: cover;
+}
+#picTop img{
+    height: 100px;
+    width: 100px;
+    position:absolute;
+}
+#picTop h1{
+    padding-top: 20px;
+    padding-left: 100px;
+    font-size: 60px;
+}
+#p1 {
+    color: rgb(0, 0, 0);
+}
+#p2 {
+    color: blue;
+}
+#textWeb {
+    background-color: rgb(15, 99, 173);
+    color: white;
+    font-size: 20px ;
+}
+#leftSide {
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 20%;
+    position: absolute;
+}
+#s1{
+    color: brown;
+}
+.s2{
+    color: blue;
+}
+#leftSide button{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    width: 150px;
+    color: white;
+}
+#video{
+    background-color:rgb(15, 99, 173);
+    padding: 10px;
+}
+#more{
+    padding: 8px;
+    background-color: orange;
+}
+
+#leftSide img{
+    width: 200px;
+    margin-top: 20px;
+}
+#dnspart{
+    position: absolute;
+}
+#dnsPart p{
+    display:inline;
+    position: absolute;  
+    margin-left: 25px; 
+    color:blue;
+    
+}
+#dnsPart img{
+    width: 20px;
+    height: 20px;
+    position: absolute; 
+       
+}
+#rightSide{
+    position:static;
+    width: 68%;
+    margin-left: 30%;
+    margin-bottom: 30%;   
+    margin-top: 20px;
+}
+#phonePart{
+    margin-top: -15px;
+    margin-left: 70%;
+    position:relative;
+    width: 250px;
+}
+#phonePart h1{
+    color:rgb(6, 134, 239)
+}
+#phonePic img{
+    width: 30px;
+    height: 30px;
+    position:absolute;
+    margin-left: 35%;
+    margin-top: 20px;
+    
+}
+#midelPic img{
+    width: 300px;
+    margin-left: 25%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+#textTop h2{
+    color: blue;    
+}
+#textTop p{
+    font-weight: bold;
+}
+hr{
+    background-color: black;
+    padding: 1px;
+    margin-top: 10px;
+}
+#textBottom h2{
+    color: blue;
+}
+.s3{
+    color:rgb(6, 134, 239)
+}
+#books{
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+    margin-top: 20px;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+#books h2{
+    margin-left: 110px;
+}
+#books p{
+    margin-top: -80px;
+    margin-left: 110px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+#books img{
+    margin-top: -30px;
+    width:100px; 
+}
+li{
+    padding-top: 10px;
+    font-weight: bold;
+}
